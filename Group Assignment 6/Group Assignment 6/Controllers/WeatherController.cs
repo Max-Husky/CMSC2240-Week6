@@ -5,12 +5,12 @@ using System.Text.Json.Serialization;
 
 namespace Group_Assignment_6.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class WeatherController : ControllerBase
     {
         [HttpGet]
-        public ActionResult<List<Forcast>> Get()
+        public ActionResult<List<int>> Get()
         {
             HttpClient client = new HttpClient();
             string result;
@@ -24,9 +24,24 @@ namespace Group_Assignment_6.Controllers
                 return BadRequest(ex);
             }
 
-            ForcastData? data = JsonConvert.DeserializeObject<ForcastData>(result);
+            try
+            {
+                ForcastData data = JsonConvert.DeserializeObject<ForcastData>(result);
 
-            return Ok(data.DataSeries);
+                List<int> list = new List<int>();
+
+                foreach (var i in data.DataSeries)
+                {
+                    list.Add(i.Temp2m);
+                }
+
+                list.Sort();
+
+                return Ok(list);
+            } catch (Exception ex)
+            {
+                return StatusCode(500, ex);
+            }
         }
     }
 
@@ -35,7 +50,7 @@ namespace Group_Assignment_6.Controllers
         public string? Product { get; set; }
         public string? Init { get; set; }
 
-        public List<Forcast>? DataSeries { get; set; }
+        public List<Forcast> DataSeries { get; set; }
     }
 
     public class Forcast
