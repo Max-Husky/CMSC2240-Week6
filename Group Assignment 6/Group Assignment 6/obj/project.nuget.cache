@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8JilVHnSbfVoaJDJyWJtl+QhjDstUrBKi/TLcYM329sAuncU+Pu1oqC0Uq/htkgzUfqzlm3ZaTlvG44jroWBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max\\Documents\\GitHub\\CMSC2240-Week6\\Group Assignment 6\\Group Assignment 6\\Group Assignment 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Max\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

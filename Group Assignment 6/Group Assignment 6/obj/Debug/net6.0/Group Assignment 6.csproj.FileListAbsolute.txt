@@ -1,0 +1,33 @@
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\appsettings.json
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\Group Assignment 6.exe
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\Group Assignment 6.deps.json
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\Group Assignment 6.runtimeconfig.json
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\Group Assignment 6.dll
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\Group Assignment 6.pdb
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\Group Assignment 6.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\Group Assignment 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\Group Assignment 6.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\Group Assignment 6.AssemblyInfo.cs
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\Group Assignment 6.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\Group Assignment 6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\Group Assignment 6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\staticwebassets\msbuild.Group Assignment 6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\staticwebassets\msbuild.build.Group Assignment 6.props
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Group Assignment 6.props
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Group Assignment 6.props
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\scopedcss\bundle\Group Assignment 6.styles.css
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\Group Assignment 6.csproj.CopyComplete
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\Group Assignment 6.dll
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\refint\Group Assignment 6.dll
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\Group Assignment 6.pdb
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\Group Assignment 6.genruntimeconfig.cache
+C:\Users\Max\Documents\GitHub\CMSC2240-Week6\Group Assignment 6\Group Assignment 6\obj\Debug\net6.0\ref\Group Assignment 6.dll
