@@ -40,7 +40,7 @@ namespace Group_Assignment_6.Controllers
                 return Ok(list);
             } catch (Exception ex)
             {
-                return StatusCode(500, ex);
+                return StatusCode(502, ex);
             }
         }
     }
