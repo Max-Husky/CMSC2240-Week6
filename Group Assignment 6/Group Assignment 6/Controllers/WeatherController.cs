@@ -10,7 +10,7 @@ namespace Group_Assignment_6.Controllers
     public class WeatherController : ControllerBase
     {
         [HttpGet]
-        public ActionResult<List<int>> Get()
+        public ActionResult<ForcastResult> Get()
         {
             HttpClient client = new HttpClient();
             string result;
@@ -28,22 +28,37 @@ namespace Group_Assignment_6.Controllers
             {
                 ForcastData data = JsonConvert.DeserializeObject<ForcastData>(result);
 
-                List<int> list = new List<int>();
+                ForcastResult forcast = new ForcastResult();
 
                 foreach (var i in data.DataSeries)
                 {
-                    list.Add(i.Temp2m);
+                    if (forcast.High < i.Temp2m) forcast.High = i.Temp2m;
+                    if (forcast.Low > i.Temp2m) forcast.Low = i.Temp2m;
+                    if (forcast.MaxWind < i.Wind10m.Speed) forcast.MaxWind= i.Wind10m.Speed;
+                    if (forcast.MinWind > i.Wind10m.Speed) forcast.MinWind= i.Wind10m.Speed;
+                    if (forcast.ParcipeTypes.IndexOf(i.Prec_Type) == -1) forcast.ParcipeTypes.Add(i.Prec_Type);
                 }
 
-                list.Sort();
-
-                return Ok(list);
+                return Ok(forcast);
             } catch (Exception ex)
             {
                 return StatusCode(502, ex);
             }
         }
     }
+
+    public class ForcastResult
+    {
+        public int High { get; set; }
+        public int Low { get; set; }
+
+        public int MaxWind { get; set; }
+
+        public int MinWind { get; set; }
+
+        public List<string> ParcipeTypes { get; set; } = new List<string>();
+    }
+
 
     public class ForcastData
     {
